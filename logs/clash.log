@@ -1,0 +1,5 @@
+time="2023-11-07T10:11:37+08:00" level=info msg="Start initial compatible provider ⭐️ Auto"
+time="2023-11-07T10:11:37+08:00" level=info msg="Start initial compatible provider 🍃 Proxies"
+time="2023-11-07T10:11:37+08:00" level=info msg="Start initial compatible provider ☁️ Others"
+time="2023-11-07T10:11:37+08:00" level=info msg="Start initial compatible provider 🍂 Domestic"
+time="2023-11-07T10:11:37+08:00" level=info msg="RESTful API listening at: [::]:9090"
